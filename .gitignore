@@ -1,4 +1,12 @@
+*.log
+.DS_Store
+.vite_opt_cache
+dist
 node_modules
+TODOs.md
+.vscode
+docs/.vitepress/dist/
+docs/.vitepress/cache
 
 # lock file
 package-lock.json
