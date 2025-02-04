@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Taliw's Brag Document",
   description: "A collection of my work and accomplishments",
+  head: [["link", { rel: "icon", href: "/favicon.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
