@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "My Brag Document"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: My Brag Document
+  text: Taliw Phanuwat
+  tagline: Product Developer at ODT
+  image:
+    src: /images/profile.png
+    alt: Taliw Phanuwat
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +18,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 2023
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 2024
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 2025
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
