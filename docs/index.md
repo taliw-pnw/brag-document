@@ -7,7 +7,7 @@ hero:
   text: Taliw Phanuwat
   tagline: Product Developer at ODT
   image:
-    src: public/profile.png
+    src: images/profile.png
     alt: Taliw Phanuwat
   actions:
     - theme: brand
