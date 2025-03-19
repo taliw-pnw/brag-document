@@ -7,7 +7,8 @@ hero:
   text: Taliw Phanuwat
   tagline: Product Developer at ODT
   image:
-    src: images/profile.png
+    dark: images/logo-dark.png
+    light: images/logo-light.png
     alt: Taliw Phanuwat
   actions:
     - theme: brand
@@ -20,6 +21,7 @@ hero:
 features:
   - title: "2023"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /2023/first-time
   - title: "2024"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: "2025"
