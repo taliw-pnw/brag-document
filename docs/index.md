@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: My Brag Document
-  text: Taliw Phanuwat
+  text: Taliw (ตะหลิว)<br>Phanuwat P.
   tagline: Product Developer at ODT
   image:
     dark: images/logo-dark.png
