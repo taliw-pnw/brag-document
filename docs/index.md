@@ -7,8 +7,8 @@ hero:
   text: Taliw (ตะหลิว)<br>Phanuwat P.
   tagline: Product Developer at ODT
   image:
-    dark: images/logo-dark.png
-    light: images/logo-light.png
+    dark: assets/logo-dark.png
+    light: assets/logo-light.png
     alt: Taliw Phanuwat
   actions:
     - theme: brand
