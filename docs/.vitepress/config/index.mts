@@ -36,8 +36,8 @@ export default defineConfig({
       {
         text: "2023",
         base: "/2023",
+        link: "/",
         items: [
-          { text: "First time", link: "/first-time" },
           { text: "September 2023", link: "/september" },
           { text: "November 2023", link: "/november"},
           { text: "December 2023", link: "/december"},
