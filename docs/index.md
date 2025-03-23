@@ -12,18 +12,22 @@ hero:
     alt: Taliw Phanuwat
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Who is Taliw?
+      # link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: LinkedIn
+      link: https://www.linkedin.com/in/taliw-pnw
 
 features:
-  - title: "2023"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 2023
+    details: What happened when I first wrote a Brag Document?
     link: /2023/first-time
-  - title: "2024"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: "2025"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - title: 2024
+  #   details: What progress have I made since I wrote my first Brag Document?
+  # - title: 2025
+  #   details: What new accomplishments have I added to my Brag Document this year?
+  # - title: xxxx
+  #   details: How have my achievements evolved since writing my Brag Document?
+  # - title: xxxx
+  #   details: Looking back, what milestones have I reached since my Brag Document?
 ---
