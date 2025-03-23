@@ -22,8 +22,9 @@ features:
   - title: 2023
     details: What happened when I first wrote a Brag Document?
     link: /2023
-  # - title: 2024
-  #   details: What progress have I made since I wrote my first Brag Document?
+  - title: 2024
+    details: What progress have I made since I wrote my first Brag Document?
+    link: /2024
   # - title: 2025
   #   details: What new accomplishments have I added to my Brag Document this year?
   # - title: xxxx
