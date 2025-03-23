@@ -23,15 +23,24 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
-      dark: "images/taliwhub-mini-dark.png",
-      light: "images/taliwhub-mini-light.png",
+      dark: "/assets/taliwhub-mini-dark.png",
+      light: "/assets/taliwhub-mini-light.png",
     },
     nav: [
       { text: "Home", link: "/" },
       { text: "Examples", link: "/markdown-examples" },
+      { text: "2023", link: "/2023" },
     ],
 
     sidebar: [
+      {
+        text: "2023",
+        base: "/2023",
+        items: [
+          { text: "First time", link: "/first-time" },
+          { text: "September", link: "/september" },
+        ],
+      },
       {
         text: "Examples",
         items: [
