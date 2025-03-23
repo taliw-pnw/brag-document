@@ -19,16 +19,16 @@ hero:
       link: https://www.linkedin.com/in/taliw-pnw
 
 features:
-  - title: 2023
+  - title: "2023"
     details: What happened when I first wrote a Brag Document?
     link: /2023
-  - title: 2024
+  - title: "2024"
     details: What progress have I made since I wrote my first Brag Document?
     link: /2024
-  # - title: 2025
+  # - title: "2025"
   #   details: What new accomplishments have I added to my Brag Document this year?
-  # - title: xxxx
+  # - title: "xxxx"
   #   details: How have my achievements evolved since writing my Brag Document?
-  # - title: xxxx
+  # - title: "xxxx"
   #   details: Looking back, what milestones have I reached since my Brag Document?
 ---
