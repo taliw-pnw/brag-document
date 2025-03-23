@@ -24,3 +24,5 @@
 - เรียนรู้และสามารถพัฒนาเว็บด้วย next js ได้
 - สามารถพิมพ์สัมผัสไประมาณ 30 wps with 90 acc
 - เล่น Duolingo ได้ครบ 100 วันในเดือนกันยายน และครบ 180 วัน ในเดือนธันวาคม
+
+Special Thanks :: <Badge type="info">pinpinpin</Badge>
