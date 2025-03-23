@@ -50,7 +50,7 @@ export default defineConfig({
         base: "/2024",
         link: "/",
         items: [
-          // { text: "January 2024", link: "/january" },
+          { text: "January 2024", link: "/january" },
         ],
       },
       {
