@@ -20,7 +20,7 @@
 
 ![SX website](/images/2024/august/sx-web.png)
 
-[https://www.sustainabilityexpo.com/sx/](https://www.sustainabilityexpo.com/sx/)
+[https://www.sustainabilityexpo.com](https://www.sustainabilityexpo.com)
 
 ## Road to Bangkok University
 
@@ -29,3 +29,13 @@
 ![Prepare RoR class for BU](/images/2024/august/prepare-ror-class.jpg)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Froofimon.class%2Fposts%2Fpfbid027xxHkBCeihf6htdk8iVbtvZk2vE5Qef81mS75AELMiyjvFpbJEGKCHbMxNN1KvWml&show_text=true&width=500" width="500" height="504" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+## First step to be a media team
+
+ในช่วงต้นเดือนที่ผ่านมา เราได้วางแผนการทำงานในส่วนของ Media Team ของ ODDS TEAM เอง เราเริ่มจากการทำ Podcast แบบ Geek Geek ฉบับชาวออดส์ โดยจะมีการพูดคุยกันในทีมเกี่ยวกับเรื่องต่าง ๆ ที่น่าสนใจในวงการ IT และการพัฒนา Software โดยจะมีการเชิญ Guest ที่น่าสนใจในวงการ IT มาร่วมพูดคุยกันด้วย ซึ่งในตอนแรกเราชื่อว่า **Software development should be joyful** ดำเนินรายการโดย <Badge type="info">Jib Piyaporn</Badge> และ <Badge type="info">TopToppy Kananek</Badge> นั่นเอง แต่เนื่องด้วยเวลาว่างของทีมไม่ค่อยตรงกันเท่าไหร่ รายการนี้ก็เลยเลือนหายไปตามการเวลา
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffai.nineprincess.7%2Fposts%2Fpfbid02mDnXMQ2XHB46Y9cg6aofiCPG86FHBjgXLL1QuGXK7URkPEHYac378eJMB6nVYkHBl&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<!-- ## ไปเที่ยววววว
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftaliw.pnw%2Fposts%2Fpfbid025Nu9CwqQykGnK7DisZ4osqK8ChDFpVu1PM74SWARKFiup5VJ7MhNqBiZKtL4SPHKl&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
