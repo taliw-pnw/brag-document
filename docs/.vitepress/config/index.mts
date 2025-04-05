@@ -39,10 +39,10 @@ export default defineConfig({
         link: "/",
         items: [
           { text: "September 2023", link: "/september" },
-          { text: "November 2023", link: "/november"},
-          { text: "December 2023", link: "/december"},
-          { text: "End of 2023", link: "/end-of-2023"},
-          { text: "More in 2023", link: "/more-in-2023" }
+          { text: "November 2023", link: "/november" },
+          { text: "December 2023", link: "/december" },
+          { text: "End of 2023", link: "/end-of-2023" },
+          { text: "More in 2023", link: "/more-in-2023" },
         ],
       },
       {
@@ -55,7 +55,7 @@ export default defineConfig({
           { text: "April 2024", link: "/april" },
           { text: "August 2024", link: "/august" },
           { text: "September 2024", link: "/september" },
-          { text: "More in 2024", link: "/more-in-2024" }
+          { text: "More in 2024", link: "/more-in-2024" },
         ],
       },
       {
