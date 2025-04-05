@@ -36,6 +36,16 @@
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffai.nineprincess.7%2Fposts%2Fpfbid02mDnXMQ2XHB46Y9cg6aofiCPG86FHBjgXLL1QuGXK7URkPEHYac378eJMB6nVYkHBl&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<!-- ## ไปเที่ยววววว
+## ไปเที่ยววววว
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftaliw.pnw%2Fposts%2Fpfbid025Nu9CwqQykGnK7DisZ4osqK8ChDFpVu1PM74SWARKFiup5VJ7MhNqBiZKtL4SPHKl&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
+ในเดือนนี้ ทีม <Badge type="info">LeSSEx</Badge> เอง เรายังได้ไปเที่นวกันด้วยนะ ซึ่งรอบนี้ไปที่ ราชบุรี~~~ ซึ่งเป็นบ้านของพี่ <Badge type="info">Jane Phongsak</Badge> Poduct Owner ของเรานั่นเอง รอบนี้ไปกัน 3 วัน 2 คืนเลย สนุกมากกกกกกกก
+
+![LeSSEx trip at Ratchaburi](/images/2024/august/IMG_3901.jpeg)
+
+![LeSSEx trip at Ratchaburi](/images/2024/august/IMG_3931.jpeg)
+
+![LeSSEx trip at Ratchaburi](/images/2024/august/IMG_4049.jpeg)
+
+![LeSSEx trip at Ratchaburi](/images/2024/august/IMG_4106.jpeg)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftaliw.pnw%2Fposts%2Fpfbid025Nu9CwqQykGnK7DisZ4osqK8ChDFpVu1PM74SWARKFiup5VJ7MhNqBiZKtL4SPHKl&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
