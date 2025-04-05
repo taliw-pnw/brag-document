@@ -53,6 +53,7 @@ export default defineConfig({
           { text: "January 2024", link: "/january" },
           { text: "February 2024", link: "/february" },
           { text: "April 2024", link: "/april" },
+          { text: "July 2024", link: "/july" },
           { text: "August 2024", link: "/august" },
           { text: "September 2024", link: "/september" },
           { text: "More in 2024", link: "/more-in-2024" },
