@@ -62,6 +62,11 @@ export default defineConfig({
         ],
       },
       {
+        text: "2025",
+        base: "/2025",
+        items: [{ text: "January 2025", link: "/january" }],
+      },
+      {
         text: "Examples",
         items: [
           { text: "Markdown Examples", link: "/markdown-examples" },
