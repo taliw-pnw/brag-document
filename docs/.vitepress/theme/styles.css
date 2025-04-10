@@ -1,7 +1,8 @@
 /* https://vitepress.dev/guide/extending-default-theme#customizing-css */
 
 :root {
-  --vp-c-brand-1: oklch(0.685 0.169 237.323);
+  --vp-c-brand-1: #00a6f4;
+  --vp-c-brand-2: #1447e6;
 
   --vp-button-brand-bg: var(--vp-c-brand-1);
 
@@ -9,12 +10,12 @@
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
     var(--vp-c-brand-1) 30%,
-    oklch(0.488 0.243 264.376)
+    var(--vp-c-brand-2)
   );
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
     var(--vp-c-brand-1) 50%,
-    oklch(0.488 0.243 264.376) 50%
+    var(--vp-c-brand-2) 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 

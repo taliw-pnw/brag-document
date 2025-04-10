@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Who is Taliw?
-      # link: /introduction
+      link: /introduce
     - theme: alt
       text: LinkedIn
       link: https://www.linkedin.com/in/taliw-pnw

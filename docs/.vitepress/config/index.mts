@@ -34,6 +34,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Who is Taliw?",
+        link: "/introduce",
+      },
+      {
         text: "2023",
         base: "/2023",
         link: "/",
