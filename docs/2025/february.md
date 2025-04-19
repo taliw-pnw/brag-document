@@ -16,7 +16,7 @@
 
 ![ODDS Media - Feb](/images/2025/february/IMG_7173.jpeg)
 
-และในเดือนนี้ก็มีแขกจากด้านนอกมาด้วยครับ ซึ่งก็คือ <Badge type="info">xxx</Badge> จาก xxx มาถ่าย Demo รายการที่ ODDS ผมก็ยินดีมาก ๆ ที่ได้ร่วมงานด้วยนะครับ และได้ความรู้เกี่ยวกับการเงินเยอะมาก ๆ เช่นกัน
+และในเดือนนี้ก็มีแขกจากด้านนอกมาด้วยครับ ซึ่งก็คือ <Badge type="info">แต้ว (จิรยง อนุมานราชธน)</Badge> Founder & Managing Director จาก Jay Capital Advisory Limited มาถ่าย Demo รายการที่ ODDS ผมก็ยินดีมาก ๆ ที่ได้ร่วมงานด้วยนะครับ และได้ความรู้เกี่ยวกับการเงินเยอะมาก ๆ เช่นกัน
 
 ![ODDS Media - P'Taw](/images/2025/february/IMG_7116.jpeg)
 
