@@ -20,6 +20,7 @@ export default defineConfig({
       },
     ],
   ],
+  lastUpdated: true,
   appearance: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -29,6 +30,7 @@ export default defineConfig({
     },
     nav: [
       { text: "Home", link: "/" },
+      { text: "Taliw?", link: "/introduce" },
       {
         text: "Documents",
         items: [
@@ -42,8 +44,14 @@ export default defineConfig({
         ],
       },
     ],
-
     sidebar: sidebar,
     socialLinks: [{ icon: "github", link: "https://github.com/taliw-pnw" }],
+    footer: {
+      message: "Taliw PNW's Brag Document",
+      copyright: "Copyright © 2023-present Taliw PNW",
+    },
+    search: {
+      provider: "local",
+    },
   },
 });
