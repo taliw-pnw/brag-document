@@ -6,9 +6,9 @@
 
 เดือนนี้ได้มีโอกาสไปเรียน "คลาส Basic Golang 101 เราจะเปลี่ยนมือใหม่หัดขับให้เป็นจิ๊กโก๋" ที่จัดสอนโดย <Badge type="info">Chinnawat Madmud</Badge>, <Badge type="info">Naravit</Badge>, <Badge type="info">Might</Badge>, <Badge type="info">Tungpair Natchaya</Badge> และ <Badge type="info">Yok Varasiri</Badge> เมื่อวันที่ 8 ที่ Geeky Base กรมป่าไม้ บอกเลยว่าสนุกมาก ๆ ได้ความรู้เยอะมาก ๆ โดยผมเองก็ไม่ได้เขียน Backend เก่ง การมาเรียนในคลาสนี้ก็ถือว่าเป็นการรื้อฟื้นความรู้ใหม่ ๆ ให้กับตัวเองด้วยเช่นกัน และนำความรู้นี้ไปใช้ในโปรเกจต์ที่ทำอยู่ด้วย เพราะเขาก็ใช้ Golang เป็นหลักอยู่แล้ว
 
-![Basic Golang 101](/images/2025/february/IMG_20250208_161952.jpg)
+![Basic Golang 101](/images/2025/february/IMG_20250208_161952.jpeg)
 
-![Basic Golang 101](/images/2025/february/IMG_20250208_162026.jpg)
+![Basic Golang 101](/images/2025/february/IMG_20250208_162026.jpeg)
 
 ## ODDS Media
 

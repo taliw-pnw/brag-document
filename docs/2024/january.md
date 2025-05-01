@@ -20,6 +20,6 @@
 
 ในปีนี้ ODDS ก็ยังได้จัดงานปีใหม่ด้วยนะ ผมเลยตั้งชื่อให้ว่า **ODDS| Friday Night 2024** บอกเลยว่า สนุกมากกกก...กกกกก ก. ไก่ล้านตัว ถ้ามีอีกรอบหน้า อยากจะขอหมอลำหน่อยนะครับ อยากใส่สเตปโจ๊ะ ไ
 
-![ODDS Night 2024](/images/2024/january/odds-night-2024-1.jpg)
+![ODDS Night 2024](/images/2024/january/odds-night-2024-1.jpeg)
 
-![ODDS Night 2024](/images/2024/january/odds-night-2024-2.jpg)
+![ODDS Night 2024](/images/2024/january/odds-night-2024-2.jpeg)

@@ -6,7 +6,7 @@
 
 มีโอกาสได้ไปงาน Agile Thailand 2024 ที่จัดขึ้นที่ True Digital Park ด้วย และเช่นเดิม ชาวออดส์ทีมก็มาเป็น sponsor งานนี้ด้วยเช่นกัน ในปีนี้เป็นเสื้อกีฬาแบบสบาย ๆ เลย และสวยมาก ๆ
 
-![ATH 2024 - Photo booth](/images/2024/july/ath-2024-photo-booth.png)
+![ATH 2024 - Photo booth](/images/2024/july/ath-2024-photo-booth.jpeg)
 
 ![ATH 2024 - Agenda](/images/2024/july/IMG_3184.jpeg)
 

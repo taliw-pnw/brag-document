@@ -9,17 +9,17 @@ My ODDS Quest
 
 ไหน ๆ เราก็จะย้ายไปตึกใหม่แล้ว ผมเห็นว่าต้องใช้บัตรเข้าตึกด้วย ก็เลยออกแบบกน้าบัตรใช้เอง แต่ก็ให้คนอื่น ๆ สั่งด้วยได้นะ และยังมีเว็บให้ลองทำหน้าบัตรดูด้วย [Link](https://playground.taliwhub.dev/odds-card)
 
-![Taliw access card](/images/2024/more-in-2024/taliw-card.jpg)
+![Taliw access card](/images/2024/more-in-2024/taliw-card.jpeg)
 
 3. ทำรูป PR Sponsor ในงาน Code in the wind #2
 4. Flutter Dev Part Time 2 เดือน
 5. ทีมข่าว geek geek แบบคนธรรมดา (ลบออกแล้ว เพราะยังไม่ได้ทำออกมาสักตอน)
 6. ขออาสาสมัคร 1 แก๊ง ช่วยออกแบบและ setup ขั้นตอนการเปลี่ยนชื่อบัตรขึ้นตึก
-7. Update ข้อมูล Access Card [ต้นเดือนสิงหาคม 2024]
+7. Update ข้อมูล Access Card (ต้นเดือนสิงหาคม 2024)
 8. ชวนทำแบบสอบถาม Knowledge/Skills/Technologies ของพวกเราชาว ODDS
 9. อยากได้คนสอน CSS/JS ที่ ม กรุงเทพ
-10. Update ข้อมูล Access Card [ต้นเดือนกันยายน 2024]
+10. Update ข้อมูล Access Card (ต้นเดือนกันยายน 2024)
 
 ตอนนี้เราได้ทำไปแล้ว **10 Quest** เป็น ⭐️ จำนวนกว่า ~~23~~ **20 ⭐️** แล้วครับ เดี๋ยวสิ้นปีจะกลับมาดูอีกที
 
-![My odds quest list](/images/2024/more-in-2024/image.png)
+![My odds quest list](/images/2024/more-in-2024/image.jpeg)

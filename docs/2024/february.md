@@ -8,4 +8,4 @@
 
 นอกจากนี้ ก็อยากได้ [Website](https://taliwhub.dev/) ของตัวเอง เพิ่ม หลังจากที่เรามี URL Shortener ไปแล้ว ซึ่งก็ได้ตัว POC จากการดู Ref. ต่าง ๆ จาก Facebook และ IG แต่ในตัว website นั้นยังไม่ได้มี content อะไรมากมายนัก คาดว่าจะอัปเดตไปใหม่เร็ว ๆ นี้
 
-![Taliwhub website](/images/2024/february/taliwhub-website.png)
+![Taliwhub website](/images/2024/february/taliwhub-website.jpeg)
