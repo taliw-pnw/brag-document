@@ -41,7 +41,7 @@ export const sidebar: DefaultTheme.Sidebar = [
       { text: "January 2025", link: "/january" },
       { text: "February 2025", link: "/february" },
       { text: "March 2025", link: "/march" },
-      // { text: "April 2025", link: "/april" },
+      { text: "April 2025", link: "/april" },
       // { text: "May 2025", link: "/may" },
       // { text: "June 2025", link: "/june" },
       // { text: "July 2025", link: "/july" },
