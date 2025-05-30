@@ -5,7 +5,7 @@ import { sidebar } from "./sidebar.mts";
 export default defineConfig({
   title: "Taliw's Brag Document",
   description:
-    "A collection of my work and accomplishments. This is a brag document. Write by Taliw - Phanuwat Phoowichai",
+    "A curated collection of my work, projects, and proudest accomplishments. This brag document is written and maintained by Taliw — Phanuwat Phoowichai.",
   head: [
     ["link", { rel: "icon", href: "/favicon.png" }],
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
