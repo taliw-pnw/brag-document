@@ -19,7 +19,19 @@ export default defineConfig({
         rel: "stylesheet",
       },
     ],
+    [
+      "meta",
+      { name: "viewport", content: "width=device-width, initial-scale=1.0" },
+    ],
+    [
+      "meta",
+      {
+        property: "og:image",
+        content: "/og-image.png",
+      },
+    ],
   ],
+  cleanUrls: true,
   lastUpdated: true,
   appearance: true,
   themeConfig: {
