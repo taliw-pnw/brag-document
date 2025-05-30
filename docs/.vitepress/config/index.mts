@@ -3,8 +3,9 @@ import { sidebar } from "./sidebar.mts";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Brag Document",
-  description: "A collection of my work and accomplishments",
+  title: "Taliw's Brag Document",
+  description:
+    "A collection of my work and accomplishments. This is a brag document. Write by Taliw - Phanuwat Phoowichai",
   head: [
     ["link", { rel: "icon", href: "/favicon.png" }],
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
@@ -28,6 +29,13 @@ export default defineConfig({
       {
         property: "og:image",
         content: "/og-image.png",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "author",
+        content: "Taliw - Phanuwat Phoowichai",
       },
     ],
   ],
